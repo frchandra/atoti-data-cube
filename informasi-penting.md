@@ -7,4 +7,4 @@
 - [slide presentasi gdocs](https://docs.google.com/presentation/d/1uzgm18Ktbx02n7bLv4uAsK69-aBVMbMNog3CgE00GGU)
 
 ## Video Presentasi
-- [video presentasi youtube](https://github.com/frchandra/atoti-data-cube/blob/main/informasi-penting.md)
+- [video presentasi youtube](https://www.youtube.com/watch?v=zKop4uL7BbI)
