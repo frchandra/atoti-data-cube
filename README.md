@@ -10,7 +10,9 @@ Made with Python (Jupyter Notebook). Libraries used:
   <li>Pandas</li>
 </ul>
 
-p.s. it's recommended to use jupyter-lab insteadof jupyter-notebook
+p.s. 
+- it's recommended to use jupyter-lab insteadof jupyter-notebook
+- the details about this submission is listed on [informasi-penting.md](informasi-penting.md)
 
 November 2022<br>
 Chandra Herdiputra
